@@ -1,0 +1,7 @@
+C:\Users\ZAKHAR\GIT8\lab8\N3_products\bin\Debug\N3_products.exe.config
+C:\Users\ZAKHAR\GIT8\lab8\N3_products\bin\Debug\N3_products.exe
+C:\Users\ZAKHAR\GIT8\lab8\N3_products\bin\Debug\N3_products.pdb
+C:\Users\ZAKHAR\GIT8\lab8\N3_products\obj\Debug\N3_products.csproj.AssemblyReference.cache
+C:\Users\ZAKHAR\GIT8\lab8\N3_products\obj\Debug\N3_products.csproj.CoreCompileInputs.cache
+C:\Users\ZAKHAR\GIT8\lab8\N3_products\obj\Debug\N3_products.exe
+C:\Users\ZAKHAR\GIT8\lab8\N3_products\obj\Debug\N3_products.pdb

@@ -1,0 +1,7 @@
+C:\Users\ZAKHAR\GIT8\lab8\N1_shkila\bin\Debug\N1_shkila.exe.config
+C:\Users\ZAKHAR\GIT8\lab8\N1_shkila\bin\Debug\N1_shkila.exe
+C:\Users\ZAKHAR\GIT8\lab8\N1_shkila\bin\Debug\N1_shkila.pdb
+C:\Users\ZAKHAR\GIT8\lab8\N1_shkila\obj\Debug\N1_shkila.csproj.AssemblyReference.cache
+C:\Users\ZAKHAR\GIT8\lab8\N1_shkila\obj\Debug\N1_shkila.csproj.CoreCompileInputs.cache
+C:\Users\ZAKHAR\GIT8\lab8\N1_shkila\obj\Debug\N1_shkila.exe
+C:\Users\ZAKHAR\GIT8\lab8\N1_shkila\obj\Debug\N1_shkila.pdb

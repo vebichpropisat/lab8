@@ -1,0 +1,7 @@
+C:\Users\ZAKHAR\GIT8\lab8\N4_delegat\bin\Debug\N4_delegat.exe.config
+C:\Users\ZAKHAR\GIT8\lab8\N4_delegat\bin\Debug\N4_delegat.exe
+C:\Users\ZAKHAR\GIT8\lab8\N4_delegat\bin\Debug\N4_delegat.pdb
+C:\Users\ZAKHAR\GIT8\lab8\N4_delegat\obj\Debug\N4_delegat.csproj.AssemblyReference.cache
+C:\Users\ZAKHAR\GIT8\lab8\N4_delegat\obj\Debug\N4_delegat.csproj.CoreCompileInputs.cache
+C:\Users\ZAKHAR\GIT8\lab8\N4_delegat\obj\Debug\N4_delegat.exe
+C:\Users\ZAKHAR\GIT8\lab8\N4_delegat\obj\Debug\N4_delegat.pdb

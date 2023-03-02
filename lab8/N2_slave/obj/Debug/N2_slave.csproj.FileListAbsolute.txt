@@ -1,0 +1,6 @@
+C:\Users\ZAKHAR\GIT8\lab8\N2_slave\bin\Debug\N2_slave.exe.config
+C:\Users\ZAKHAR\GIT8\lab8\N2_slave\bin\Debug\N2_slave.exe
+C:\Users\ZAKHAR\GIT8\lab8\N2_slave\bin\Debug\N2_slave.pdb
+C:\Users\ZAKHAR\GIT8\lab8\N2_slave\obj\Debug\N2_slave.csproj.CoreCompileInputs.cache
+C:\Users\ZAKHAR\GIT8\lab8\N2_slave\obj\Debug\N2_slave.exe
+C:\Users\ZAKHAR\GIT8\lab8\N2_slave\obj\Debug\N2_slave.pdb
